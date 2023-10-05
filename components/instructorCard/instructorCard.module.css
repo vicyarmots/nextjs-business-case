@@ -1,0 +1,24 @@
+.wrapper {
+  margin: 10px;
+  width: 1000px;
+  height: 70px;
+  background: white;
+  color: black;
+  border-radius: 10px;
+
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.wrapper p {
+  width: 10rem;
+}
+
+.image {
+  width: 50px;
+  height: 50px;
+  background: white;
+  border: 3px solid black;
+  border-radius: 50px;
+}
